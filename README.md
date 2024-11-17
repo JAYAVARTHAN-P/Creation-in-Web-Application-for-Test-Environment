@@ -1,9 +1,8 @@
  # CREATION IN WEB APPLICATION FOR TEST ENVIRONMENT
-  ## AIM
-       To Creation in Web Application for Test Environment.
+## AIM
+To Creation in Web Application for Test Environment.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
-
+Setting up test environments for web applications is time-consuming and complex. Developers need an efficient way to replicate real-world conditions while ensuring security and consistency. A simplified solution can streamline the process and improve testing outcomes.
 ## ALGORITHM
  ### Steps 1:
  Launch an EC2 instance in AWS using an Amazon Linux 2 AMI with a Security Group allowing HTTP and SSH traffic.
