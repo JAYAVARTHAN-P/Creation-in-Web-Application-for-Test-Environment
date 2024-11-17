@@ -30,8 +30,10 @@ systemctl start httpd
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>j </h1>
-    <p> t</p>
+<h1>My First PHP page</h1>
+<?php
+echo "Hello World"
+?>
 </body>
 </html>
 ```
