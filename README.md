@@ -37,12 +37,14 @@ echo "Hello World";
 </html>
 ```
 ## OUTPUT
-### REG NUMBER:212222100054
-### NAME:Tejusve Kabeer F
+### REG NUMBER:212222100015
+### NAME: Jayavarthan P
 ### Terminal:
-![image](https://github.com/user-attachments/assets/fc9d9baf-9d2d-4470-833a-e6bce67247b7)
+![386834017-fc9d9baf-9d2d-4470-833a-e6bce67247b7](https://github.com/user-attachments/assets/95fe2d35-f377-4797-b6a8-3f811508e8e9)
+
 ### Website:
-![image](https://github.com/user-attachments/assets/f63dc64f-c2ea-4aa8-9d6c-02b56b96adc1)
+![386834037-f63dc64f-c2ea-4aa8-9d6c-02b56b96adc1](https://github.com/user-attachments/assets/dea0906c-8689-4de4-8761-91fb68eab536)
+
 
 ## RESULT
  Thus the web application for test environment has successfully been created and executed.
